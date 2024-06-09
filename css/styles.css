@@ -1,7 +1,7 @@
 body {
-    background-color: white;
     font-family: "Roboto", sans-serif;
     color: #000000;
+    background-color: #F5F5F5;
 }
 
 *,
@@ -63,6 +63,7 @@ img {
     align-items: center;
     padding: 10px 32px;
     border: 1px solid #E7E9FC;
+    background-color: #FEFEFE;
 }
 
 .nav-list {
@@ -98,8 +99,7 @@ img {
     color: #black;
 }
 
-.hero {
-    background-color: #fefefe;
+.section-hero {
     padding: 60px 32px 0 32px;
 }
 
